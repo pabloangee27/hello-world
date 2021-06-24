@@ -1,2 +1,2 @@
 # hello-world
-Git beginnings 
+I'm just practicing Github's functions
